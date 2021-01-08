@@ -1,0 +1,30 @@
+*{ 
+
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+}
+.size a {
+
+    float: left ;
+  color:#2f3542;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px ;
+}
+
+
+.color{
+    color: #01b08e;
+}
+
+.simple{
+    padding-top: 17px;
+}
+.simple2{
+    font-weight:  bold;
+    color:black;
+}
+.font{
+    font-size: 20px;
+}
